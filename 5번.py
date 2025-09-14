@@ -1,6 +1,6 @@
 arr = list(map(int,input("arr의 값을 입력하세요").split()))
-max = -2100000000
-min = 2100000000
+max = arr[1]
+min = arr[1]
 
 for i in range(len(arr)):
     if arr[i] > max:
