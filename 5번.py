@@ -1,4 +1,4 @@
-arr = list(map(int,input("arr의 값을 입력하세요").split()))
+arr = [@,@,@,@,@,@]
 max = arr[1]
 min = arr[1]
 
